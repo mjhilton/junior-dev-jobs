@@ -30,6 +30,10 @@ After cloning the git repo:
 
 ### Run
 
-`npm start`
+start the app: `npm start`
+
+start the database: `mongod`
+
+starte the node server: `node server.js`
 
 Browse to localhost:3000 to view
